@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="http://sipax.co" title="SIPAX" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="Lio Room Reservation"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/php-28-226043.png" alt="Lio Room Reservation"/>
     </a>
     <br>
     Lio Room Reservation (Website Pemesanan Hotel Gratis)
