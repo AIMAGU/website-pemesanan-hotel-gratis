@@ -21,6 +21,7 @@ Pada aplikasi ini terdiri dari beberapa modul diantaranya:
 
 - Modul Kamar
 - Modul Pemesanan
+- Modul Berita
 - Tampilan Frontend
 - Tampilan Backend
 - Export Database
