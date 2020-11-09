@@ -58,9 +58,9 @@ Kontak Kami
 Edit file koneksi.php
 ```
 $host='localhost';
-$user='root';
-$pass='';
-$db='tugas7';
+$user='user';
+$pass='password';
+$db='database';
 mysql_connect("$host","$user","$pass");
 mysql_select_db("$db");
 ```
