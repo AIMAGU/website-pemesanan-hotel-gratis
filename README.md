@@ -66,7 +66,7 @@ mysql_select_db("$db");
 
 ## Screenshot Aplikasi
 ### Tampilan Desktop
-<img src="https://2.bp.blogspot.com/-Tmicxt9CLQQ/WtrSwwrDFUI/AAAAAAAACUs/VodR86OpT6YPiKzF9rv-YSMoGvGqdcYAwCLcBGAs/s1600/hotel2.PNG" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/website-pemesanan-hotel-gratis/blob/main/website-hotel-gratis.png?raw=true" alt="Screenshot"/>
 
 ## Kontak
 Kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=)
