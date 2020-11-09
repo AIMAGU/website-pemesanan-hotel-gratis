@@ -45,6 +45,9 @@ Clone master
 git clone https://github.com/AIMAGU/website-pemesanan-hotel-gratis.git
 ```
 
+### Database
+Import file database.sql
+
 ### Demo
 Kontak Kami
 
